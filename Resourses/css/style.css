@@ -29,3 +29,11 @@ body {
   color: aquamarine;
   font-size: 16px;
 }
+
+/* FOOTER */
+
+.fotter--copyright {
+  color: grey;
+  font-size: 16px;
+  text-align: right;
+}
